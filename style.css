@@ -96,7 +96,7 @@ html {
 .pressed {
 	box-shadow: -0.305vw 0.915vw 0vw rgba(0, 0, 0, 1);
 	top: 0.122vw;
-	background-color: rgba(0, 0, 0, 0);
+	background-color: #E2E2E2;
 }
  
 #bpm {
