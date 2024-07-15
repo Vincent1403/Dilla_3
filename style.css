@@ -161,8 +161,8 @@ html {
 #clear-track:hover {
 	cursor: pointer;
 	border: 0.244vw solid rgba(0, 0, 0, 1);
-	box-shadow: -3.171vw 0.915vw 0vw rgba(0, 0, 0, 1);
-  top: 0.122vw;
+	box-shadow: -0.271vw 0.271vw 0vw rgba(0, 0, 0, 1);
+  
 }
  
 #clear-track:active {
@@ -209,7 +209,7 @@ html {
 }
  
 .item-selected {
-	background-color: #602C29;
+	background-color: #774018;
 }
  
 #d-split {
